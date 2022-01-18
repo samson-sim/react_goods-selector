@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,kBACE,wBAA4B,CAC7B,gBAGC,oBAAqB,CACrB,gBAAiB","file":"main.4d8ae8a0.chunk.css","sourcesContent":[".button__selected {\n  background-color: aquamarine;\n}\n\n.button__delete {\n  background-color: red;\n  margin-left: 20px;\n}\n"]}
